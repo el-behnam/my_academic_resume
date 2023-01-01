@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.12.30)  31 DEC 2022 21:29
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.12.30)  31 DEC 2022 21:39
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -859,56 +859,56 @@ Underfull \hbox (badness 10000) detected at line 181
 
 File: Images/aut.png Graphic file (type png)
 <use Images/aut.png>
-Package pdftex.def Info: Images/aut.png  used on input line 211.
+Package pdftex.def Info: Images/aut.png  used on input line 208.
 (pdftex.def)             Requested size: 10.97408pt x 11.99832pt.
 File: Images/aut.png Graphic file (type png)
 <use Images/aut.png>
-Package pdftex.def Info: Images/aut.png  used on input line 216.
+Package pdftex.def Info: Images/aut.png  used on input line 213.
 (pdftex.def)             Requested size: 10.97408pt x 11.99832pt.
 <Images/icrom.png, id=86, 200.75pt x 71.26625pt>
 File: Images/icrom.png Graphic file (type png)
 <use Images/icrom.png>
-Package pdftex.def Info: Images/icrom.png  used on input line 221.
+Package pdftex.def Info: Images/icrom.png  used on input line 218.
 (pdftex.def)             Requested size: 11.99852pt x 4.25948pt.
 <Images/fira_cup.png, id=87, 92.04916pt x 98.13506pt>
 File: Images/fira_cup.png Graphic file (type png)
 <use Images/fira_cup.png>
-Package pdftex.def Info: Images/fira_cup.png  used on input line 227.
+Package pdftex.def Info: Images/fira_cup.png  used on input line 224.
 (pdftex.def)             Requested size: 11.25468pt x 11.99881pt.
 File: Images/icrom.png Graphic file (type png)
 <use Images/icrom.png>
-Package pdftex.def Info: Images/icrom.png  used on input line 232.
+Package pdftex.def Info: Images/icrom.png  used on input line 229.
 (pdftex.def)             Requested size: 11.99852pt x 4.25948pt.
 <Images/luxin.png, id=89, 270.00874pt x 246.9225pt>
 File: Images/luxin.png Graphic file (type png)
 <use Images/luxin.png>
-Package pdftex.def Info: Images/luxin.png  used on input line 238.
+Package pdftex.def Info: Images/luxin.png  used on input line 235.
 (pdftex.def)             Requested size: 11.99742pt x 10.97162pt.
 [2 <./Images/icrom.png> <./Images/fira_cup.png> <./Images/luxin.png>]
 File: Images/aut.png Graphic file (type png)
 <use Images/aut.png>
-Package pdftex.def Info: Images/aut.png  used on input line 243.
+Package pdftex.def Info: Images/aut.png  used on input line 240.
 (pdftex.def)             Requested size: 10.97408pt x 11.99832pt.
 File: Images/icrom.png Graphic file (type png)
 <use Images/icrom.png>
-Package pdftex.def Info: Images/icrom.png  used on input line 249.
+Package pdftex.def Info: Images/icrom.png  used on input line 246.
 (pdftex.def)             Requested size: 11.99852pt x 4.25948pt.
 
 
 LaTeX Font Warning: Font shape `OT1/lmss/sb/n' undefined
-(Font)              using `OT1/lmss/b/n' instead on input line 314.
+(Font)              using `OT1/lmss/b/n' instead on input line 311.
 
 
 LaTeX Font Warning: Font shape `OT1/lmss/sb/n' undefined
-(Font)              using `OT1/lmss/b/n' instead on input line 314.
+(Font)              using `OT1/lmss/b/n' instead on input line 311.
 
 
 LaTeX Font Warning: Font shape `OT1/lmss/sb/n' undefined
-(Font)              using `OT1/lmss/b/n' instead on input line 314.
+(Font)              using `OT1/lmss/b/n' instead on input line 311.
 
 
 LaTeX Font Warning: Font shape `OT1/lmss/sb/n' undefined
-(Font)              using `OT1/lmss/b/n' instead on input line 314.
+(Font)              using `OT1/lmss/b/n' instead on input line 311.
 
 [3] (./CV.aux)
 Package rerunfilecheck Info: File `CV.out' has not changed.
