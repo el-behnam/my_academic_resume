@@ -45,3 +45,6 @@ There are several platforms and tools that you can use to create an academic res
 - Use a clear, easy-to-read font: Choose a font that is easy to read and looks professional.
 
 - Use appropriate formatting: Use head
+
+## My Academic Resume
+I've created my resume in latex. I have used moderncv documnet class for my resume and I didn't code for it from scrtatch and you can find the reference to the moderncv resume at the begining of the latex code. The source is [LaTeXTemplates website](http://www.LaTeXTemplates.com) and the author is Xavier Danaux. I also removed the reference part but you can add them at the end of the resume.
